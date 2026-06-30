@@ -8,3 +8,6 @@
 # Temporary test files
 _chk_gestao.png
 new_logos_test.html
+
+.vercel
+.env*
