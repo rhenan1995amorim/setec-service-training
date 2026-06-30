@@ -1,0 +1,10 @@
+# Editor and tool directories
+.claude/
+.gemini/
+.idea/
+.vscode/
+*.log
+
+# Temporary test files
+_chk_gestao.png
+new_logos_test.html
